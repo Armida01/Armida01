@@ -1,6 +1,6 @@
 ## Hi there, I'm Armida 👋
 
-I'm a passionate front-end developer with a knack for creating intuitive and visually appealing user experiences from Armenia 🇦🇲.
+I'm a front-end developer with a knack for creating intuitive and visually appealing user experiences from Armenia 🇦🇲.
 <br/>
 I specialize in HTML, CSS, and JavaScript, and I have a deep understanding of modern frameworks like React and Vue.js. I strive to write clean, maintainable code while keeping up with the latest industry trends and best practices. I strive to build responsive and interactive web and mobile applications.
 
