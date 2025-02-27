@@ -87,7 +87,7 @@ Implemented features such as implementing News API with React, getting news by c
 
 Feel free to reach out to me if you have any questions, project proposals, or just want to say hi!
 
-- Email: armida.rehanyan@esterox.am
+- Email: armidrehanyan@gmail.com
 
 ### :fire: My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armida01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
