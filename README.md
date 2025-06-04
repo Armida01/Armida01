@@ -89,12 +89,6 @@ Feel free to reach out to me if you have any questions, project proposals, or ju
 
 - Email: armidrehanyan@gmail.com
 
-### :fire: My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armida01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
-[![Armida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armida01)](https://github.com/anuraghazra/github-readme-stats)
-
 
 🙌 Thank you for taking the time to explore my README and learn more about me as a front-end developer. I appreciate your interest and consideration.
 <br/><br/>
