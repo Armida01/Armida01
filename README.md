@@ -90,6 +90,7 @@ Implemented features such as implementing News API with React, getting news by c
 Feel free to reach out to me if you have any questions, project proposals, or just want to say hi!
 
 - Email: armidrehanyan@gmail.com
+- Portfolio: armidarehanyan.com](https://armidarehanyan.com
 
 
 🙌 Thank you for taking the time to explore my README and learn more about me as a front-end developer. I appreciate your interest and consideration.
